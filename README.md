@@ -14,4 +14,6 @@ based on various product categories. The company wants to add user control for p
 category, so users can select a category and can see the trend month-wise and product-wise 
 accordingly.
 
+And also company wants a Dashboard to fetch the detail of Cutomer by Order_Id as an input and the KPI for the each customer against the sales and profit done by them.
+
 
