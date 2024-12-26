@@ -7,5 +7,11 @@ business houses are implementing web sites providing functionality for performin
 transactions over the web. It is reasonable to say that the process of shopping on the web is 
 becoming commonplace
 
+#Objective
+
+An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales 
+based on various product categories. The company wants to add user control for product 
+category, so users can select a category and can see the trend month-wise and product-wise 
+accordingly.
 
 
