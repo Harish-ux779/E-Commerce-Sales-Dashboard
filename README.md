@@ -23,4 +23,8 @@ And also company wants a Dashboard to fetch the detail of Cutomer by Order_Id as
 ![Image](https://github.com/Harish-ux779/E-Commerce-Sales-Dashboard/blob/main/Customer_OrderInfo_dashboard.jpg)
 
 
+## Conclusion
+This project seeks to deliver valuable insights into e-commerce sales by examining various product categories and factors that influence e-commerce operations. By analyzing customer data and key performance indicators (KPIs) for each customer in relation to sales and profit, we aim to support stakeholders in making informed decisions and optimizing their sales strategies.
+
+
 
