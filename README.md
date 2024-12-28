@@ -20,7 +20,7 @@ And also company wants a Dashboard to fetch the detail of Cutomer by Order_Id as
 ![Image](https://github.com/Harish-ux779/E-Commerce-Sales-Dashboard/blob/main/Sales_Dashboard.jpg)
 
 ## Customer Order Information Dashboard
-![Image]()
+![Image](https://github.com/Harish-ux779/E-Commerce-Sales-Dashboard/blob/main/Customer_OrderInfo_dashboard.jpg)
 
 
 
