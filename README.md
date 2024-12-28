@@ -16,4 +16,8 @@ accordingly.
 
 And also company wants a Dashboard to fetch the detail of Cutomer by Order_Id as an input and the KPI for the each customer against the sales and profit done by them.
 
+## Sales_Dashboard
+!(https://github.com/Harish-ux779/E-Commerce-Sales-Dashboard/blob/main/Picture1.jpg)
+
+
 
